@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **MERN**
 
-- 👨‍💻 All of my projects are available at [https://kandadi-manasa.netlify.app/](https://kandadi-manasa.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://kandadi-manasa.netlify.app/](https://manasakandadi.netlify.app/)
 - My Blog Page [Blog Page](https://kandadimanasa.hashnode.dev/)
 
 - 💬 Ask me about **MERN, DSA**
