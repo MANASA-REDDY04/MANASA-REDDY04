@@ -29,11 +29,16 @@
 ---
 
 ## Freelance Projects  
-| Project        | Link                                           |
-|----------------|------------------------------------------------|
-| Aadya Films    | [https://aadyafilms.com](https://aadyafilms.com) |
-| Samala Dairy   | [https://samaladairyfarms.netlify.app](https://samaladairyfarms.netlify.app) |
-| Personal Portfolio | [https://manasakandadi.vercel.app](https://manasakandadi.vercel.app) |
+| Project           | Link                                                               |
+|------------------|--------------------------------------------------------------------|
+| Aadya Films       | [https://aadyafilms.com](https://aadyafilms.com)                  |
+| Samala Dairy      | [https://samaladairyfarms.netlify.app](https://samaladairyfarms.netlify.app) |
+---
+## Personal Projects
+| Project           | Link                                                               |
+|------------------|--------------------------------------------------------------------|
+| Prep Wiser AI     | [https://prepwiseai-gamma.vercel.app](https://prepwiseai-gamma.vercel.app) |
+| Personal Portfolio| [https://manasakandadi.vercel.app](https://manasakandadi.vercel.app) |
 
 ---
 
@@ -104,3 +109,4 @@ I write about web development, MERN, and DSA here: [kandadimanasa.hashnode.dev](
     <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png" width="40" height="40" />
   </a>
 </p>
+
