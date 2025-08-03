@@ -2,6 +2,9 @@
 <h3 align="center">Freelance Web Developer | MERN Stack Learner | DSA Aspirant | Tech Blogger</h3>
 
 <p align="center">
+  <a href="https://manasakandadi.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
   <a href="https://leetcode.com/manasa_1223/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
   </a>
@@ -21,6 +24,7 @@
 - Actively solving problems in DSA on LeetCode.
 - Passionate about writing clean, maintainable code.
 - Currently learning system design and backend patterns.
+- 👩‍💻 Check out my portfolio: [manasakandadi.vercel.app](https://manasakandadi.vercel.app)
 
 ---
 
@@ -29,6 +33,7 @@
 |----------------|------------------------------------------------|
 | Aadya Films    | [https://aadyafilms.com](https://aadyafilms.com) |
 | Samala Dairy   | [https://samaladairyfarms.netlify.app](https://samaladairyfarms.netlify.app) |
+| Personal Portfolio | [https://manasakandadi.vercel.app](https://manasakandadi.vercel.app) |
 
 ---
 
@@ -38,7 +43,6 @@
     <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png" width="30" height="30" />
 </a>  <br/>
 I write about web development, MERN, and DSA here: [kandadimanasa.hashnode.dev](https://kandadimanasa.hashnode.dev/)
-
 
 ---
 
@@ -87,6 +91,9 @@ I write about web development, MERN, and DSA here: [kandadimanasa.hashnode.dev](
 
 ## Connect with Me
 <p align="left">
+  <a href="https://manasakandadi.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" width="140" height="40"/>
+  </a>
   <a href="https://linkedin.com/in/kandadi-manasa" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" />
   </a>
